@@ -1,10 +1,11 @@
 # FOV_Restrictor_2
 
 (1) 사용된 기술 스택
-    Developed with Unreal Engine 4
+    : Developed with Unreal Engine 4
 
 (2) 프로젝트 설치 방법
-
+    - 언리얼엔진을 실행할 수 있는 컴퓨터에서 자료를 내려 받는다.
+    - 
 (3) 프로젝트 사용법
     첨부된 '메뉴얼' 참고
     
